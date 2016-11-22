@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Justin's Resume
 url: 'http://justinpobrien.com'
 baseurl: '/justinpobrien.github.io' #change it according to your repository name
 
@@ -26,4 +26,3 @@ website: justinpobrien.com #do not add http://
 linkedin: justinpobrien
 github: justinpobrien
 twitter: '@justinpobrien'
-
